@@ -1,0 +1,11 @@
+{ decls }
+namespace CP {  }
+
+[ libTaggingUtilitiesDict.so ]
+# List of selected classes
+class CP::TaggingUtilities
+header TaggingUtilities.h
+[ libfjvtTagAndProbeLib.so ]
+# List of selected classes
+class fjvtTagAndProbe
+header fjvtTagAndProbe/fjvtTagAndProbe.h

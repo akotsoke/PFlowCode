@@ -1,0 +1,6 @@
+# Target labels
+ TaggingUtilities
+# Source files and their labels
+/afs/cern.ch/user/a/akotsoke/directory/build/TaggingUtilities/CMakeFiles/TaggingUtilitiesDictDictGen
+/afs/cern.ch/user/a/akotsoke/directory/build/TaggingUtilities/CMakeFiles/TaggingUtilitiesDictDictGen.rule
+/afs/cern.ch/user/a/akotsoke/directory/build/TaggingUtilities/CMakeFiles/TaggingUtilitiesDict.dsomap.rule

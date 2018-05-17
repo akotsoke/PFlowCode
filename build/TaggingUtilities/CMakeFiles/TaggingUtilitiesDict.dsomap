@@ -1,0 +1,7 @@
+{ decls }
+namespace CP {  }
+
+[ libTaggingUtilitiesDict.so ]
+# List of selected classes
+class CP::TaggingUtilities
+header TaggingUtilities.h

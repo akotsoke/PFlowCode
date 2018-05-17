@@ -1,0 +1,5 @@
+# Target labels
+ TaggingUtilities
+# Source files and their labels
+/afs/cern.ch/user/a/akotsoke/directory/build/x86_64-slc6-gcc62-opt/include/TaggingUtilities
+/afs/cern.ch/user/a/akotsoke/directory/build/x86_64-slc6-gcc62-opt/include/TaggingUtilities.rule

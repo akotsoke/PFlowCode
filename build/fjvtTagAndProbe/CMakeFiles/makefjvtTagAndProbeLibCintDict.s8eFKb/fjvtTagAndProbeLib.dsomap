@@ -1,0 +1,4 @@
+[ libfjvtTagAndProbeLib.so ]
+# List of selected classes
+class fjvtTagAndProbe
+header fjvtTagAndProbe/fjvtTagAndProbe.h

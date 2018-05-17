@@ -1,0 +1,26 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/build/TaggingUtilities/CMakeFiles/TaggingUtilitiesDictReflexDict.cxx",
+			"labels" : 
+			[
+				"TaggingUtilities"
+			]
+		},
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/source/TaggingUtilities/TaggingUtilities/TaggingUtilitiesDict.h"
+		},
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/source/TaggingUtilities/TaggingUtilities/selection.xml"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TaggingUtilities"
+		],
+		"name" : "TaggingUtilitiesDict"
+	}
+}

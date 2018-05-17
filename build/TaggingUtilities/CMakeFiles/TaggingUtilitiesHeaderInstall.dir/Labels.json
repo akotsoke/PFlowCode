@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/build/x86_64-slc6-gcc62-opt/include/TaggingUtilities"
+		},
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/build/x86_64-slc6-gcc62-opt/include/TaggingUtilities.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TaggingUtilities"
+		],
+		"name" : "TaggingUtilitiesHeaderInstall"
+	}
+}

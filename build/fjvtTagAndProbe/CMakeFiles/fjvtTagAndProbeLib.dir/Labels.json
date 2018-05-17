@@ -1,0 +1,29 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/source/fjvtTagAndProbe/fjvtTagAndProbe/fjvtTagAndProbe.h"
+		},
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/source/fjvtTagAndProbe/Root/fjvtTagAndProbe.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/build/fjvtTagAndProbe/CMakeFiles/fjvtTagAndProbeLibCintDict.cxx",
+			"labels" : 
+			[
+				"fjvtTagAndProbe"
+			]
+		},
+		{
+			"file" : "/afs/cern.ch/user/a/akotsoke/directory/build/fjvtTagAndProbe/CMakeFiles/fjvtTagAndProbeLibCintDict.cxx.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fjvtTagAndProbe"
+		],
+		"name" : "fjvtTagAndProbeLib"
+	}
+}

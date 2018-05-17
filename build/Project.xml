@@ -1,0 +1,66 @@
+<!-- Auto-generated file, please do not edit -->
+<Project name="WorkDir" >
+   <SubProject name="AsgTools" >
+   </SubProject>
+   <SubProject name="xAODJet" >
+   </SubProject>
+   <SubProject name="xAODTruth" >
+   </SubProject>
+   <SubProject name="PFlowUtils" >
+   </SubProject>
+   <SubProject name="JetCalibTools" >
+   </SubProject>
+   <SubProject name="JetMomentTools" >
+   </SubProject>
+   <SubProject name="PATInterfaces" >
+   </SubProject>
+   <SubProject name="PathResolver" >
+   </SubProject>
+   <SubProject name="TaggingUtilities" >
+      <Dependency name="AsgTools" />
+      <Dependency name="xAODJet" />
+      <Dependency name="xAODTruth" />
+      <Dependency name="PFlowUtils" />
+      <Dependency name="JetCalibTools" />
+      <Dependency name="JetMomentTools" />
+      <Dependency name="PATInterfaces" />
+      <Dependency name="PathResolver" />
+   </SubProject>
+   <SubProject name="AsgAnalysisInterfaces" >
+   </SubProject>
+   <SubProject name="EventLoop" >
+   </SubProject>
+   <SubProject name="EventLoopAlgs" >
+   </SubProject>
+   <SubProject name="GoodRunsLists" >
+   </SubProject>
+   <SubProject name="SUSYTools" >
+   </SubProject>
+   <SubProject name="AssociationUtils" >
+   </SubProject>
+   <SubProject name="xAODEgamma" >
+   </SubProject>
+   <SubProject name="xAODTracking" >
+   </SubProject>
+   <SubProject name="xAODCutFlow" >
+   </SubProject>
+   <SubProject name="xAODEventInfo" >
+   </SubProject>
+   <SubProject name="fjvtTagAndProbe" >
+      <Dependency name="AsgTools" />
+      <Dependency name="AsgAnalysisInterfaces" />
+      <Dependency name="PATInterfaces" />
+      <Dependency name="EventLoop" />
+      <Dependency name="EventLoopAlgs" />
+      <Dependency name="GoodRunsLists" />
+      <Dependency name="SUSYTools" />
+      <Dependency name="AssociationUtils" />
+      <Dependency name="xAODEgamma" />
+      <Dependency name="xAODTracking" />
+      <Dependency name="xAODCutFlow" />
+      <Dependency name="JetMomentTools" />
+      <Dependency name="TaggingUtilities" />
+      <Dependency name="xAODEventInfo" />
+      <Dependency name="PathResolver" />
+   </SubProject>
+</Project>

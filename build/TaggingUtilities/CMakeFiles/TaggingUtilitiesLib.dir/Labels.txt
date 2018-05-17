@@ -1,0 +1,6 @@
+# Target labels
+ TaggingUtilities
+# Source files and their labels
+/afs/cern.ch/user/a/akotsoke/directory/source/TaggingUtilities/TaggingUtilities/TaggingUtilities.h
+/afs/cern.ch/user/a/akotsoke/directory/source/TaggingUtilities/TaggingUtilities/TaggingUtilitiesDict.h
+/afs/cern.ch/user/a/akotsoke/directory/source/TaggingUtilities/Root/TaggingUtilities.cxx
